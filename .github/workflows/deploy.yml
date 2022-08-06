@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    name: Deploy MkDocs website
+    name: Deploy MkDocs-powered website
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main branch for GitHub repository

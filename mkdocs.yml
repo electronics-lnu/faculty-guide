@@ -1,6 +1,6 @@
 # Display name and URL of the site
 site_name: 'Faculty Guide for Electronics'
-site_url: 'https://faculty.guide/' # For production only
+#site_url: 'https://faculty.guide/' # For production only
 
 # Project's GitHub repository
 #repo_name: 'electronics-lnu/faculty-guide'
