@@ -104,10 +104,9 @@ extra:
     # YouTube channel link
     - icon: fontawesome/brands/youtube
       link: 'https://youtube.com/channel/UCrKI0wrgSLhqOUESLiTk4UA'
-  #consent:
-  #  title: Cookie consent
-  #  description: >- 
-  #    Lorem Ipsum dolor sit amet.
+  analytics:
+    provider: google
+    property: G-GMPPDCQN2S # Ідентифікатор для домену в зоні GitHub.IO
 
 copyright: >
   Copyright &copy; 2021-2022, Студенти <a href='https://electronics.lnu.edu.ua/' target='_blank'>Факультету електроніки та комп'ютерних технологій</a>
