@@ -9,8 +9,8 @@
 ## Канали зв'язку і корисні посилання
 Приєднайся до [каналу факультету в Telegram](https://t.me/electronics_lnu), де ти зможеш дізнатися про важливі події у студентському житті, переглянути можливості для розвитку і цікаві пропозиції від крутих ІТ компаній. Також у нас є сторінки в [Instagram](https://instagram.com/electronics_lnu) (там цікаво) і [Facebook](https://facebook.com/electronics.lnu) (там офіційно). Ще у нас є [канал на YouTube](https://youtube.com/channel/UCrKI0wrgSLhqOUESLiTk4UA) - там публікуються записи подій на факультеті, а також сторінка у TikTok - але її шукай самостійно, бо автор цих рядків там не зареєстрований :laughing:.
 
-[Telegram-канал](https://t.me/electronics_lnu){ .md-button .md-button--primary }
 [Чат вступників](https://t.me/electronics_lnu_2022){ .md-button .md-button--primary }
+[Telegram](https://t.me/electronics_lnu){ .md-button }
 [Instagram](https://instagram.com/electronics_lnu){ .md-button }
 [Facebook](https://facebook.com/electronics.lnu){ .md-button }
 [YouTube](https://youtube.com/channel/UCrKI0wrgSLhqOUESLiTk4UA){ .md-button }
