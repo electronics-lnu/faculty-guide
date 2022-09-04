@@ -1,0 +1,26 @@
+{
+    "name": "Faculty Guide",
+    "short_name": "Faculty Guide",
+    "theme_color": "#032461",
+    "background_color": "#032461",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "_assets/img/faculty_logo.jpg",
+            "sizes": "32x32",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "_assets/img/faculty_logo.jpg",
+            "sizes": "48x48",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "_assets/img/faculty_logo.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg"
+        }
+    ]
+}
